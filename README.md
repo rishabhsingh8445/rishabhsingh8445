@@ -19,17 +19,7 @@
 
 ---
 
-```python
-class RishabhSingh:
-    def __init__(self):
-        self.role        = ["GenAI & Agentic AI Engineer", "Data Scientist", "Python Backend Developer"]
-        self.education   = "B.Tech CSE · Vidya College of Engineering, Meerut · CGPA 7.5 · 2026"
-        self.internships = ["IBM – NASSCOM (GenAI)", "Edunet/AICTE – Microsoft Azure AI",
-                            "Tata Group – Forage", "Deloitte – Forage"]
-        self.stack       = ["LangGraph", "RAG", "Pinecone", "Qdrant", "FastAPI", "Power BI"]
-        self.building    = "Agentic AI pipelines + Production data analytics systems"
-        self.location    = "Meerut, Uttar Pradesh, IN"
-```
+B.Tech CS graduate with hands-on experience building **production-grade Agentic AI systems**, **full-stack data platforms**, and **enterprise BI dashboards**. Proficient in designing multi-agent LLM pipelines (LangGraph, RAG, NVIDIA NIM), developing Python + FastAPI backends, and delivering end-to-end data analytics solutions across supply chain, SaaS, and e-commerce domains. Experienced through industry programs with **IBM, Microsoft Azure (AICTE), Tata Group, and Deloitte** — currently targeting roles in **Generative AI Engineering, Data Science, and Python Backend Development**.
 
 ---
 
