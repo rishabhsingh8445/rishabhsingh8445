@@ -154,6 +154,6 @@ class RishabhSingh:
 
 <div align="center">
 
-*`B.Tech CSE · Vidya College of Engineering · Meerut, India · Graduating 2026`*
+*`B.Tech CSE · Vidya College of Engineering · Meerut, India · Graduated 2026`*
 
 </div>
