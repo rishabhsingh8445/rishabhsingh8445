@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=90&lines=RISHABH+SINGH" alt="Rishabh Singh" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=99999&color=8B949E&center=true&vCenter=true&width=900&height=30&lines=GenAI+%26+Agentic+AI+Engineer+%7C+Data+Scientist+%7C+Python+Backend+Developer" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=99999&color=8B949E&center=true&vCenter=true&width=900&height=30&lines=AI%2FML+Engineer+%7C+GenAI+%26+Agentic+Systems+%7C+Data+Analyst" alt="roles" />
 
 <br/>
 
@@ -19,7 +19,9 @@
 
 ---
 
-B.Tech CS graduate with hands-on experience building **production-grade Agentic AI systems**, **full-stack data platforms**, and **enterprise BI dashboards**. Proficient in designing multi-agent LLM pipelines (LangGraph, RAG, NVIDIA NIM), developing Python + FastAPI backends, and delivering end-to-end data analytics solutions across supply chain, SaaS, and e-commerce domains. Experienced through industry programs with **IBM, Microsoft Azure (AICTE), Tata Group, and Deloitte** — currently targeting roles in **Generative AI Engineering, Data Science, and Python Backend Development**.
+👋 **Hi there! I'm Rishabh, a B.Tech Computer Science graduate (2026) passionate about building intelligent systems and extracting actionable insights from data.** 
+
+I specialize in designing **production-grade Agentic AI workflows**, **full-stack GenAI platforms**, and **enterprise-level data analytics dashboards**. From orchestrating multi-agent LLM pipelines (LangGraph, RAG, NVIDIA NIM) to processing million-row datasets for actionable business intelligence, I thrive at the intersection of AI and Data. I have hands-on experience through industry programs with **IBM, Microsoft Azure, Tata Group, and Deloitte**, and I'm actively seeking roles in **AI/ML Engineering, Generative AI, and Data Analytics**.
 
 ---
 
@@ -88,23 +90,34 @@ B.Tech CS graduate with hands-on experience building **production-grade Agentic 
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🔍 IntelScout**](https://intel-scout.vercel.app/) | Next.js · FastAPI · Playwright · Pinecone · NVIDIA NIM · Llama 3.3 · Neon PostgreSQL · Clerk | 3-agent autonomous pipeline (Research → Change Detection → Strategy) · 1024-D embeddings · RAG vector search <1.3s · Slack webhook alerts |
-| [**🧠 QuerySage**](https://querysage.vercel.app/) | React · FastAPI · LangGraph · LangChain · Qdrant · NVIDIA NIM · Neon PostgreSQL · Clerk | 4-agent self-correction loop (Analyst → Generator → Optimizer → Reviewer) · Long-term memory injection · Live pg_stat_statements monitor · Index simulation |
+| [**🔍 IntelScout**](https://intel-scout.vercel.app/) | Next.js · FastAPI · Playwright · Pinecone · Llama 3.3 | **Autonomous 3-agent pipeline** (Research, Change Detection, Strategy) · Pinecone RAG architecture cutting search latency from 2m to **<1.3s** · Automated SWOT analysis via tool-calling. |
+| [**🧠 QuerySage**](https://querysage.vercel.app/) | React · FastAPI · LangGraph · Qdrant · PostgreSQL | **4-Agent LangGraph system** with reflection loops to auto-optimize slow SQL queries · Schema-aware Qdrant RAG pipeline · Hallucination-free Natural-Language-to-SQL generation. |
 
 ### 🥈 Tier 2 — Full-Stack AI Platforms
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**📊 AutoInsight AI**](https://auto-insightai.vercel.app/) | React 19 · Vite · TypeScript · FastAPI · Supabase · Groq API · Llama 3.3 70B · Recharts · TanStack Router · Zustand | 50K+ row client-side parsing · Auto data cleaning · Conversational analytics · PDF export · Google OAuth · Row-Level Security |
+| [**📊 AutoInsight AI**](https://auto-insightai.vercel.app/) | React 19 · FastAPI · Supabase · Groq API · Llama 3.3 | Conversational analytics over **50K+ rows** · Automated prompt construction for grounded responses · Production-ready automated anomaly detection, cleaning, and PDF report generation. |
 
 ### 🥉 Tier 3 — Data Engineering & Analytics
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🚢 Dark Fleet Analytics**](https://github.com/rishabhsingh8445/Dark-Fleet-Analytics) | Python · Pandas · Power BI · Python Pillow · Geospatial | ETL on 1.1M+ AIS rows · 107 anomalies detected across 11,900 vessels · Neumorphic Power BI dashboard · 90% BI compute overhead reduction |
-| [**📉 Enterprise Subscription Analytics**](https://github.com/rishabhsingh8445/enterprise-subscription-analytics) | Power BI · DAX · Python Pillow · Glassmorphism UI | Custom LTV/Churn/MRR DAX measures · 45% churn from Electronic Check identified · 72-month tenure loyalty spike insight · Glassmorphic UI generated via Python |
-| [**👥 Ecommerce RFM Analysis**](https://github.com/rishabhsingh8445/Ecommerce-Retention-RFM-Analysis) | Power BI · DAX · Power Query (M) · Figma | RFM segmentation on 50K+ customers · Cohort retention heatmap · Champions / At-Risk / Lost customer classification · Star schema data model |
-| [**🗃️ Olist SQL Analysis**](https://github.com/rishabhsingh8445/olist-ecommerce-analysis) | MySQL 8.0 · CTEs · Window Functions · Star Schema | 100K+ orders across 7 relational tables · 40% query time reduction · Logistics, seller, payment & review KPI analysis |
+| [**🚢 Dark Fleet Analytics**](https://github.com/rishabhsingh8445/Dark-Fleet-Analytics) | Python · Pandas · Power BI · Geospatial | Processed **1.1M+ AIS records** via Python/Pandas (reduced latency by 25%) · Detected anomalies across **11,900 vessels** with 92% accuracy · Neumorphic Power BI tracking dashboard. |
+| [**📉 Enterprise Subscription**](https://github.com/rishabhsingh8445/enterprise-subscription-analytics) | Power BI · DAX · Python Pillow | Custom DAX measures for LTV, Churn, and MRR · Identified payment methods driving **45% of churn** · Uncovered compounding revenue spikes in 72-month tenured cohorts. |
+| [**👥 Ecommerce RFM**](https://github.com/rishabhsingh8445/Ecommerce-Retention-RFM-Analysis) | Power BI · DAX · Power Query | RFM segmentation on **50K+ customers** (lifted efficiency by 15%) · Cohort retention heatmap revealing **10% month-3 drop** · SaaS dashboard tracking MRR, Churn & CLV. |
+| [**🗃️ Olist SQL Analysis**](https://github.com/rishabhsingh8445/olist-ecommerce-analysis) | MySQL 8.0 · CTEs · Window Functions | Analyzed **100K+ orders** across 7 relational tables · Reduced query execution time by **40%** using CTEs · Deep dive into logistics, seller performance, and payment KPIs. |
+
+---
+
+## 🏢 Experience
+
+| Organization | Role | Highlights | Duration |
+|:---|:---|:---|:---|
+| **IBM (NASSCOM PBEL)** | Generative AI Intern | Built NLP pipelines (GPT-2, DeBERTa) for text classification · Automated Python data preprocessing, chunking, and metadata tagging to improve GenAI training data quality. | `Jun–Jul 2025` |
+| **Edunet (AICTE - Microsoft)** | AI Azure Intern | Deployed Machine Learning and Computer Vision workflows using Azure ML Studio · Integrated AI capabilities directly into backend enterprise data pipelines. | `Jun–Jul 2025` |
+| **Deloitte (Forage)** | Data Analytics Intern | Analyzed business datasets to uncover operational trends · Supported simulated client workflows with data-driven reporting and actionable insights. | `Jun 2025` |
+| **Tata Group (Forage)** | Data Viz Intern | Developed 4 executive-level Power BI dashboards tracking 5 key operational metrics · Visualized actionable sales and performance trends. | `Jun 2025` |
 
 ---
 
@@ -118,19 +131,6 @@ B.Tech CS graduate with hands-on experience building **production-grade Agentic 
 <img src="https://streak-stats.demolab.com?user=rishabhsingh8445&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
-
----
-
-## 🏢 Experience
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  IBM – NASSCOM (PBEL)        │  GenAI Intern              │  Jun–Jul 2025 │
-│  Edunet / AICTE – Microsoft  │  AI Azure Intern           │  Jun–Jul 2025 │
-│  Tata Group – Forage         │  Data Visualization Intern │  Jun 2025     │
-│  Deloitte – Forage           │  Data Analytics Intern     │  Jun 2025     │
-└──────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
